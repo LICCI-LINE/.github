@@ -1,7 +1,7 @@
 # Sécurité
 
 ## Signaler une vulnérabilité
-Ne créez pas d'issue publique. Contactez directement : **security@VOTRE-DOMAINE.com**
+Ne créez pas d'issue publique. Contactez directement : **liccidevopsit@gmail.com**
 
 ## Bonnes pratiques
 - Pas de secrets dans le code : `.env` + GitHub Secrets
